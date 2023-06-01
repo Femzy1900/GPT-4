@@ -2,8 +2,8 @@ import './App.css'
 
 export default function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
+  <div>
+    <h1>GPT-3</h1>
+  </div>
   )
 }
